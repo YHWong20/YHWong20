@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YHWong20.
-- 👀 I’m a Y2 Life Sciences major in NUS. I find the field of Computing fascinating and hope to learn more! I am interested in Cybersecurity/Information Security, along with Bioinformatics + Computational Biology!
+- 👀 I’m a Y2 Information Security student in NUS.
 - 🌱 I’m currently learning Java. I hope to be able to learn JavaScript, C, C# in the future.
 - 📚 Languages: Python, Java
 
