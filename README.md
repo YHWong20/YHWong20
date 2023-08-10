@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YHWong20.
 - 👀 I’m a Y2 Information Security student in NUS.
-- 🌱 I’m currently learning Java. I hope to be able to learn JavaScript, C, C# in the future.
-- 📚 Languages: Python, Java
+- 🌱 I’m currently learning C. I hope to learn Rust, JavaScript and C++ in the future.
+- 📚 Languages: Python (Proficiency: 5/5), Java (Proficiency: 2/5)
 
 <!---
 YHWong20/YHWong20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
