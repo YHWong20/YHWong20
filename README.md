@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YHWong20.
-- 👀 I’m a Y2 Information Security student at NUS.
+- 👀 I’m an Information Security student at NUS.
 - 🌱 I’m currently learning C. I hope to learn Rust, JavaScript and C++ in the future.
 - 📚 Languages: Python (Proficiency: 3/5), Java (Proficiency: 3/5), C (Proficiency: 1/5)
 
