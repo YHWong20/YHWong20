@@ -1,3 +1,3 @@
-👋 Hi, I’m @YHWong20!
+### 👋 Hi, I’m @YHWong20!
 
-![YH's GitHub stats](https://github-readme-stats.vercel.app/api?username=YHWong20)
+![YH's GitHub stats](https://github-stats-extended.vercel.app/api?username=YHWong20)
